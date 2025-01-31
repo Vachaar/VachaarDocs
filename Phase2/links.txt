@@ -1,0 +1,14 @@
+آدرس سایت
+https://vachaar.darkube.app/
+
+آدرس پنل ادمین
+https://vachaar-api.darkube.app/admin
+
+لینک کانبان + فلو ها
+https://www.figma.com/board/PjELfbwHAxswAVybQsEJ2j/Kanban?node-id=0-1&t=MNLSbISFQ2GhlyJJ-0
+
+لینک ریپوی بکند
+https://github.com/Vachaar/Vachaarback
+
+لینک ریپوی فرانت اند
+https://github.com/Vachaar/Vachaarfront
