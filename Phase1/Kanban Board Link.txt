@@ -1,0 +1,7 @@
+Kanban Board Link:
+https://www.figma.com/board/PjELfbwHAxswAVybQsEJ2j/Kanban?node-id=0-1&p=f&t=35pArxSa7Sx6tpA8-0
+
+It Includes:
+pre-delivery and main Kanban with WIP limit
+Explore purpose => mindmap
+Work Item List (Explore usage => user stories=> JIT Priorization)
